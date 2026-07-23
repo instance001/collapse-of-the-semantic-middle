@@ -41,9 +41,6 @@ The paper introduces and develops the following working vocabulary:
 
 Current draft: **v0.2 - 24 July 2026**
 
-This repository has not yet been pushed to GitHub. The document is currently a
-draft and may change as the argument, references, and presentation are refined.
-
 ## Suggested Citation
 
 ```text
