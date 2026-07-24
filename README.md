@@ -15,6 +15,8 @@ expressive and interpretive substance between them.
 ## Repository Contents
 
 - `collapse_of_the_semantic_middle_v0_2.docx` - Draft v0.2 of the paper.
+- `observations/` - Short companion notes documenting observed or near-term
+  transition examples related to the paper's argument.
 - `LICENSE` - GNU Affero General Public License v3.0.
 
 ## Core Concepts
@@ -40,6 +42,10 @@ The paper introduces and develops the following working vocabulary:
 ## Status
 
 Current draft: **v0.2 - 24 July 2026**
+
+The observations directory is intended as a longitudinal companion collection.
+New notes should document genuine examples rather than manufacture a fixed
+series.
 
 ## Suggested Citation
 
