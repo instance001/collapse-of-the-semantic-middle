@@ -12,6 +12,8 @@ LLM expansion and receiver-side LLM summarisation become ordinary enough that
 humans remain at the edges of an exchange while machines traverse much of the
 expressive and interpretive substance between them.
 
+Philpapers mirror: https://philpapers.org/rec/PATTCO-24
+
 ## Repository Contents
 
 - `collapse_of_the_semantic_middle_v0_2.docx` - Draft v0.2 of the paper.
