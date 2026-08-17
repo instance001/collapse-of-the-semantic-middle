@@ -16,7 +16,8 @@ Philpapers mirror: https://philpapers.org/rec/PATTCO-24
 
 ## Repository Contents
 
-- `collapse_of_the_semantic_middle_v0_2.docx` - Draft v0.2 of the paper.
+- `collapse_of_the_semantic_middle_v0_3.docx` - Draft v0.3 of the paper.
+- `collapse_of_the_semantic_middle_v0_3.pdf` - PDF export of draft v0.3.
 - `observations/` - Short companion notes documenting observed or near-term
   transition examples related to the paper's argument.
 - `LICENSE` - GNU Affero General Public License v3.0.
@@ -43,7 +44,12 @@ The paper introduces and develops the following working vocabulary:
 
 ## Status
 
-Current draft: **v0.2 - 24 July 2026**
+Current draft: **v0.3 - 17 August 2026**
+
+Revision note: v0.3 adds the pre-AI historical framing, clarifies generative AI
+as a catalyst and deepener rather than the sole cause of semantic compression,
+corrects and completes reference details, and applies editorial cleanup prepared
+alongside an anonymous journal submission.
 
 The observations directory is intended as a longitudinal companion collection.
 New notes should document genuine examples rather than manufacture a fixed
@@ -54,7 +60,7 @@ series.
 ```text
 #Instance001 - Fractal Media Infrastructure. (2026).
 The Collapse of the Semantic Middle: Bidirectional LLM Mediation and the Risk
-of Communicative Atrophy. Draft v0.2.
+of Communicative Atrophy. Draft v0.3.
 ```
 
 ## License
