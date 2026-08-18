@@ -78,7 +78,7 @@ The same tools can support either capability extension or capability substitutio
 
 The drafting process may be viewed as ordinary collaborative writing using a powerful tool. That description is accurate.
 
-Its relevance lies in the fact that the paper was produced through the same kind of mediation it analyses, making the distinction between **audited hybrid cognition** and **unaudited semantic delegation** directly observable rather than merely theoretical.
+Its relevance lies in the fact that the paper was produced through the same kind of mediation it analyses, making the distinction between **audited human-LLM collaboration** and **unaudited semantic delegation** directly observable rather than merely theoretical.
 
 ## What this example does not prove
 

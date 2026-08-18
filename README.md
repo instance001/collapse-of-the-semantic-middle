@@ -12,6 +12,10 @@ LLM expansion and receiver-side LLM summarisation become ordinary enough that
 humans remain at the edges of an exchange while machines traverse much of the
 expressive and interpretive substance between them.
 
+The argument does not depend on AI consciousness, sentience, or model-internal
+understanding. It concerns observable communication workflows: who formulates,
+who reads, who audits, and where meaning can still be inspected or repaired.
+
 Philpapers mirror: https://philpapers.org/rec/PATTCO-24
 
 ## Repository Contents
